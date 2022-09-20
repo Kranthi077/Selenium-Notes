@@ -1,0 +1,13 @@
+Create new Maven Project with name "Assignment_YourName" and write code for below question
+Question - Automate RedBus
+
+Steps to Automate:(use implicit wait(compulsory), explicit wait if required)
+
+1. Open link https://www.redbus.in/
+2. Handle the "Show Notifications" pop-up using ChromeOptions
+3. Enter and select "Hyderabad" in From location.
+4. Enter and select "Chennai" in To location.
+5. Select date 15-Dec-2022 from Date element.
+6. Click on Search buses button
+7. Print the Name/Text of the first bus result in console
+8. Take a screenshot of this page

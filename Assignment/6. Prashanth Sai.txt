@@ -1,0 +1,16 @@
+Create new Maven Project with name "Assignment_YourName" and write code for below question
+Question - Automate Myntra
+
+Steps to Automate:(use implicit wait(compulsory), explicit wait if required)
+
+1. Open link https://www.myntra.com/
+2. Handle the "Show notifications" popup using chrome options
+3. Enter "Shirts" in the search bar.
+4. click on the first result
+5. navigate to the product which is opened in the next(new) tab using window handles
+6. Select any size
+7. Click on add to bag
+8. Click on Go to bag
+9. Verify the selected item is present in Bag using Assert class
+10. Print the name of the product on the console
+11. take a screenshot of this page

@@ -1,0 +1,13 @@
+Create new Maven Project with name "Assignment_YourName" and write code for below question
+Question - Automate Flipkart
+
+Steps to Automate:(use implicit wait(compulsory), explicit wait if required)
+
+1. Open link https://www.flipkart.com/
+2. Close the login pop-up
+3. Enter "Laptops" in the search bar.
+4. Print the name of the first result on the console
+5. click on the first result
+6. navigate to the product which is opened in the next(new) tab using window handles
+7. Click on BuyNow option
+8. take a screenshot of this page
